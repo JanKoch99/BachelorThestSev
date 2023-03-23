@@ -10,7 +10,7 @@ public class Fibonacci {
             n1=n2;
             n2 = n2 / 2;
             n1 = n1 / 2;
-            n2=n3*2;
+            n2=n3-1;
         }
     }
 }
