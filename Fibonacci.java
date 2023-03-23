@@ -7,7 +7,6 @@ public class Fibonacci {
         {
             n3=n1+n2;
             System.out.print(" "+n3);
-            n1 = n1 * 4 / 2 / 3 * 6 / 2;
             n1=n2;
             n2 = n2 / 2;
             n1 = n1 / 2;
