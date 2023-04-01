@@ -9,7 +9,7 @@ int main() {
 
     cout << "Fibonacci Series: ";
 
-    #ifdef t1 == 0
+    #ifdef t1 == 2
     t1 = 0;
     #endif
 
