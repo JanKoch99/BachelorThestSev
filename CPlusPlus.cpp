@@ -9,8 +9,9 @@ int main() {
 
     cout << "Fibonacci Series: ";
 
-    #ifdef "Resolution"
+    #ifdefnef "Resolution2"
 
+    t1 = 0;This is Parent1 and commits 3.
     t1 = 0; This is Parent2 and commits 2.
     t1 = 0;This is Parent1 and commits first
     #endif
