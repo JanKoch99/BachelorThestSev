@@ -13,6 +13,10 @@ int main() {
     t1 = 0;
     #endif
 
+    #ifdef n==2
+        t1 = 0;
+    #endif
+
     #ifdef n==3
         t1 = 0;
     #endif
