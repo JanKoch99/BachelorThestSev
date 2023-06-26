@@ -9,8 +9,12 @@ int main() {
 
     cout << "Fibonacci Series: ";
 
-    #ifdef "Resolution"
+    #ifdef "Test1"
     t1 = 0;
+    #endif
+
+    #ifdef n==2
+        t1 = 0;
     #endif
 
     for (int i = 1; i <= n; ++i) {
