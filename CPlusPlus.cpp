@@ -9,12 +9,8 @@ int main() {
 
     cout << "Fibonacci Series: ";
 
-    #ifdw "Resolution"
-
-    t1 = 0; This is Parent2 and commits 2.
-    t1 = 0;This is Parent2 and commits 2.
-    t1 = 0;This is Parent1 and commits 1.
-    t1 = 0;This is Parent1 and commits first
+    #ifdef "Resolution"
+    t1 = 0;
     #endif
 
     for (int i = 1; i <= n; ++i) {
