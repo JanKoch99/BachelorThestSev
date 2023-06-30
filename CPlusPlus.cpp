@@ -20,10 +20,10 @@ int main() {
 
     #ifdef n==3
         t1 = 0;
-    #endif teststring = "Base" + " " + " "
-        t1 = 0;
-        t2 = 0;
-        nextTerm = 0;
+    #endif teststring = "Base" + " " + "Commit1"
+        t1 = 1;
+        t2 = 1;
+        nextTerm = 1;
     #ifdef
 
     for (int i = 1; i <= n; ++i) {
