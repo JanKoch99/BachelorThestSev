@@ -10,10 +10,10 @@ int main() {
 
     cout << "Fibonacci Series: ";
 
-    #ifdef teststring = "Base" + "" + ""
-        t1 = 3;
-        t2 = 3;
-        nextTerm = 3;
+    #ifdef teststring = "Base" + "" + "Commit1"
+        t1 = 1;
+        t2 = 1;
+        nextTerm = 1;
     #endif
 
     for (int i = 1; i <= n; ++i) {
