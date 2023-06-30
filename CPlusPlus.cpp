@@ -20,9 +20,9 @@ int main() {
 
     #ifdef n==3
         t1 = 0;
-    #endif teststring = "Base" + " " + "Commit1"
+    #endif teststring = "Resolution" + "Commit0" + "Commit1"
         t1 = 1;
-        t2 = 1;
+        t2 = 0;
         nextTerm = 1;
     #ifdef
 
