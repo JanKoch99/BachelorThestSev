@@ -3,6 +3,7 @@ using namespace std;
 
 int main() {
     int n, t1 = 0, t2 = 1, nextTerm = 0;
+    String teststring = "Base"
 
     cout << "Enter the number of terms: ";
     cin >> n;
@@ -19,7 +20,9 @@ int main() {
 
     #ifdef n==3
         t1 = 0;
-    #endif
+    #endif teststring = "Base"
+        t1 = 2;
+    #ifdef
 
     for (int i = 1; i <= n; ++i) {
         // Prints the first two terms.
