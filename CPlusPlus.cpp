@@ -10,21 +10,11 @@ int main() {
 
     cout << "Fibonacci Series: ";
 
-    #ifdef "Test2"
-    t1 = 0;
+    #ifdef teststring = "Base" + "" + ""
+        t1 = 3;
+        t2 = 3;
+        nextTerm = 3;
     #endif
-
-    #ifdef n==2
-        t1 = 0;
-    #endif
-
-    #ifdef n==3
-        t1 = 0;
-    #endif teststring = "Resolution" + "Commit0" + "Commit1"
-        t1 = 1;
-        t2 = 0;
-        nextTerm = 1;
-    #ifdef
 
     for (int i = 1; i <= n; ++i) {
         // Prints the first two terms.
