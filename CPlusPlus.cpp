@@ -10,7 +10,7 @@ int main() {
 
     cout << "Fibonacci Series: ";
 
-    #ifdef teststring = "Resolution" + "Commit0" + "Commit1"
+    #ifdef teststring = "testbranch"
         t1 = 1;
         t2 = 0;
         nextTerm = 3;
