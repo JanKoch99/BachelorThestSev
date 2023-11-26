@@ -1,11 +1,16 @@
 public class Programming {
-    Integer variableOne = 0;
+    Integer variableDefault = 0;
 
-    void incrementVariableOne() {
+    void incrementVariableDefault() {
+        System.out.println(this.variableDefault);
         this.variableOne ++;
     }
 
     void clearVariable() {
-        this.variableOne = 0;
+        this.variableOne = 0; //Variable should get cleared to 0
+    }
+
+    void printVariable() {
+        System.out.println(this.variableDefault);
     }
 }
